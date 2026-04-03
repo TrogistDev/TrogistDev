@@ -30,15 +30,17 @@
 <h2 align="left">Tech Stack & Tools</h2>
 
 <p align="left">
-  <img src="https://simpleicons.org/icons/react.svg" width="45" height="45" alt="React" />
-  <img src="https://simpleicons.org/icons/nextdotjs.svg" width="45" height="45" alt="Next.js" />
-  <img src="https://simpleicons.org/icons/nodedotjs.svg" width="45" height="45" alt="Node.js" />
-  <img src="https://simpleicons.org/icons/typescript.svg" width="45" height="45" alt="TypeScript" />
-  
-  <img src="https://simpleicons.org/icons/docker.svg" width="45" height="45" alt="Docker" />
-  <img src="https://simpleicons.org/icons/amazonwebservices.svg" width="45" height="45" alt="AWS" />
-  <img src="https://simpleicons.org/icons/playwright.svg" width="45" height="45" alt="Playwright" />
-  <img src="https://simpleicons.org/icons/tailwindcss.svg" width="45" height="45" alt="Tailwind" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind" />
+</p>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="45" height="45" alt="Playwright" />
 </p>
 
 
