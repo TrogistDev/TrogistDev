@@ -42,5 +42,5 @@
 <br />
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TrogistDev&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TrogistDev&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
