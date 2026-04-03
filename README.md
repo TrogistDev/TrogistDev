@@ -28,7 +28,19 @@
 
 ###
 
+<h2 align="left">Tech Stack & Tools</h2>
+
 <p align="center">
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=TrogistDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=TrogistDev&layout=compact&theme=radical&langs_count=7" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+</p>
+
+<br />
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TrogistDev&show_icons=true&theme=radical&include_all_commits=true" />
 </p>
