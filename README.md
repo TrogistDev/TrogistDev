@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gustavo and I'm trying my best to become a programmer!</p>
+<p align="left">I'm Gustavo and here is what I do:</p>
 
 ###
 
