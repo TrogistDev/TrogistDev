@@ -31,11 +31,11 @@
 <h2 align="left">Tech Stack & Tools</h2>
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,docker,aws,playwright,ts,tailwind" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs" alt="Frontend & Backend" />
+  <img src="https://skillicons.dev/icons?i=docker,aws" alt="Infra" />
+  <img src="https://skillicons.dev/icons?i=playwright,ts,tailwind" alt="Testing & Tools" />
 </p>
-<br />
+
 
 <p align="center">
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=TrogistDev&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
