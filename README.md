@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind" />
 </p>
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/playwright/playwright-original.svg" width="45" height="45" alt="Playwright" />
