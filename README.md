@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">I am an entry-level Full Stack Developer with good knowledge gained through courses and constant practice. I work with HTML, HTML5, CSS, CSS3, SASS, JavaScript, React, React.js, Node.js, Express.js and MongoDB, as well as APIs, Bootstrap and responsive web design. I also have experience with Python, Git, GitHub, Linux, Excel and basic cybersecurity.<br>Additionally, I work with image editing tools such as Canva, GIMP, Adobe Photoshop and Illustrator, and I have experience with computer repair and HTML layout.<br>I speak Spanish, English and Portuguese, and I am looking for opportunities as a Full Stack, Backend, Frontend or Software Developer, preferably remote or hybrid. I enjoy programming and I am committed to keep learning and improving.</p>
+<p align="left">
+  <strong>Full Stack Developer</strong> focused on JavaScript ecosystems (<strong>React, Next.js, and Node.js</strong>). Specialist in bridging intuitive interfaces with robust backends and <strong>AI-driven solutions</strong>. Expert in ensuring scalability through <strong>Docker, AWS</strong>, and automated testing with <strong>Playwright</strong>. Pragmatic in applying Agile methodologies and software engineering best practices.
+</p>
 
 ###
 
