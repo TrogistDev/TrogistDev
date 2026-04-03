@@ -28,8 +28,7 @@
 
 ###
 
-![Estatísticas do meu GitHub](https://github-readme-stats.vercel.app/api?username=TrogistDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-
-###
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=TrogistDev&layout=compact&theme=radical&langs_count=8)
+<p align="center">
+  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=TrogistDev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=TrogistDev&layout=compact&theme=radical&langs_count=7" />
+</p>
